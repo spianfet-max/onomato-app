@@ -1,0 +1,22 @@
+[
+  {"ja": "ふわふわ", "ro": "Fuwa-fuwa", "cat": "Texture", "en": "Fluffy", "fr": "Moelleux"},
+  {"ja": "もちもち", "ro": "Mochi-mochi", "cat": "Texture", "en": "Chewy/Doughy", "fr": "Élastique/Moelleux"},
+  {"ja": "ざらざら", "ro": "Zara-zara", "cat": "Texture", "en": "Rough", "fr": "Rugueux"},
+  {"ja": "つるつる", "ro": "Tsuru-tsuru", "cat": "Texture", "en": "Smooth/Slippery", "fr": "Lisse/Glissant"},
+  {"ja": "ねばねば", "ro": "Neba-neba", "cat": "Texture", "en": "Sticky", "fr": "Collant"},
+  {"ja": "ぴかぴか", "ro": "Pika-pika", "cat": "Appearance", "en": "Shiny", "fr": "Étincelant"},
+  {"ja": "わくわく", "ro": "Waku-waku", "cat": "Emotion", "en": "Excited", "fr": "Enthousiaste"},
+  {"ja": "どきどき", "ro": "Doki-doki", "cat": "Emotion", "en": "Heart-pounding", "fr": "Cœur qui bat"},
+  {"ja": "いらいら", "ro": "Ira-ira", "cat": "Emotion", "en": "Irritated", "fr": "Irrité"},
+  {"ja": "そわそわ", "ro": "Sowa-sowa", "cat": "Emotion", "en": "Restless", "fr": "Agité"},
+  {"ja": "ぺこぺこ", "ro": "Peko-peko", "cat": "Condition", "en": "Starving", "fr": "Affamé"},
+  {"ja": "からから", "ro": "Kara-kara", "cat": "Condition", "en": "Thirsty/Dry", "fr": "Assoiffé/Sec"},
+  {"ja": "ぐっすり", "ro": "Gussuri", "cat": "Sleep", "en": "Soundly asleep", "fr": "Profondément endormi"},
+  {"ja": "うとうと", "ro": "Uto-uto", "cat": "Sleep", "en": "Dozing off", "fr": "Somnoler"},
+  {"ja": "ざあざあ", "ro": "Zaa-zaa", "cat": "Weather", "en": "Pouring rain", "fr": "Pluie battante"},
+  {"ja": "しとしと", "ro": "Shito-shito", "cat": "Weather", "en": "Drizzling", "fr": "Pluie fine"},
+  {"ja": "ごろごろ", "ro": "Goro-goro", "cat": "Weather", "en": "Thundering", "fr": "Gronder (tonnerre)"},
+  {"ja": "きらきら", "ro": "Kira-kira", "cat": "Appearance", "en": "Sparkling", "fr": "Brillant"},
+  {"ja": "じろじろ", "ro": "Action", "en": "Staring", "fr": "Fixer du regard"},
+  {"ja": "にこにこ", "ro": "Emotion", "en": "Smiling", "fr": "Souriant"}
+]
